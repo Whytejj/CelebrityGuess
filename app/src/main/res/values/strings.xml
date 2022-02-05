@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CelebrityGuess</string>
+    <string name="button1">Button</string>
+    <string name="button2">Button</string>
+    <string name="button3">Button</string>
+    <string name="button4">Button</string>
+    <string name="todo">TODO</string>
+    <string name="score">0/0</string>
+</resources>
